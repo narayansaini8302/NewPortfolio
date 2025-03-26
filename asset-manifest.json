@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/narayansaini8302/NewPortfolio.git/static/css/main.e0be2bf8.css",
+    "main.js": "/narayansaini8302/NewPortfolio.git/static/js/main.e46fb3a6.js",
+    "static/js/453.26329329.chunk.js": "/narayansaini8302/NewPortfolio.git/static/js/453.26329329.chunk.js",
+    "static/media/port.png": "/narayansaini8302/NewPortfolio.git/static/media/port.e6ca8bfd9eb5ae584a43.png",
+    "static/media/myphoto.jpg": "/narayansaini8302/NewPortfolio.git/static/media/myphoto.07dd4c78a21504778601.jpg",
+    "static/media/task.png": "/narayansaini8302/NewPortfolio.git/static/media/task.c7241ee255af01eea710.png",
+    "static/media/ecomerce.jpg": "/narayansaini8302/NewPortfolio.git/static/media/ecomerce.860aa84b567450a1c087.jpg",
+    "index.html": "/narayansaini8302/NewPortfolio.git/index.html",
+    "main.e0be2bf8.css.map": "/narayansaini8302/NewPortfolio.git/static/css/main.e0be2bf8.css.map",
+    "main.e46fb3a6.js.map": "/narayansaini8302/NewPortfolio.git/static/js/main.e46fb3a6.js.map",
+    "453.26329329.chunk.js.map": "/narayansaini8302/NewPortfolio.git/static/js/453.26329329.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0be2bf8.css",
+    "static/js/main.e46fb3a6.js"
+  ]
+}
